@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS student_management_spring;
+CREATE DATABASE student_management_spring;
